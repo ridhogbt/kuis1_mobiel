@@ -38,7 +38,7 @@ class ProfilePage extends StatelessWidget {
                       shape: BoxShape.circle,
                       border: Border.all(color: Colors.white, width: 4),
                       image: const DecorationImage(
-                        image: AssetImage('assets/pp.jpeg'),
+                        image: AssetImage('assets/profile.jpeg'),
                         fit: BoxFit.cover,
                       ),
                     ),
